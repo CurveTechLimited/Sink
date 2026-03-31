@@ -28,7 +28,7 @@ const { title, github } = useAppConfig()
                 class="w-full h-full rounded-full"
               >
             </span>
-            <span class="mx-2">{{ title }}</span>
+            <span class="mx-2">alt4.link</span>
           </a>
         </div>
 
@@ -54,7 +54,7 @@ const { title, github } = useAppConfig()
                   class="w-full h-full rounded-full"
                 >
               </span>
-              <span class="mx-2">{{ title }}</span>
+              <span class="mx-2">alt4.link</span>
             </a>
             <div class="w-full mx-4" />
             <div
